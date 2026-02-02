@@ -25,10 +25,12 @@ struct ContentView: View {
             Text("new change in feature")
             
             Text("new change from feature/home")
+            
+            Text("new change2 from feature/home")
         }
         .padding()
-    }
-    // edited in main at origin
+    }// edited in main at origin
+    
 }
 
 #Preview {
