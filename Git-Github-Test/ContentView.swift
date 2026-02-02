@@ -17,6 +17,12 @@ struct ContentView: View {
             
             Text("hii from main")
                 .padding(10)
+            Image(systemName: "circle.fill")
+                .padding(10)
+            Text("first change in feature/login-register")
+                .padding(10)
+            
+            Text("new change in feature")
         }
         .padding()
     }
