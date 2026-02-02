@@ -19,6 +19,8 @@ struct ContentView: View {
                 .padding(10)
             Text("first change in feature/login-register")
                 .padding(10)
+            
+            Text("new change in feature")
         }
         .padding()
     }
