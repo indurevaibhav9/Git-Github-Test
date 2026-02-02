@@ -15,6 +15,8 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
             
+            Text("hii from main")
+                .padding(10)
             Image(systemName: "circle.fill")
                 .padding(10)
             Text("first change in feature/login-register")
