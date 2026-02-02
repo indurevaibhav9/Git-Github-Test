@@ -23,6 +23,8 @@ struct ContentView: View {
                 .padding(10)
             
             Text("new change in feature")
+            
+            Text("new change from feature/home")
         }
         .padding()
     }
